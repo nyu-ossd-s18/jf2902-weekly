@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Jessica, a senior in CAS, majoring in Computer Science and minoring in Music. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm Chinese-Indonesian (Chinese ancestors, born and raised in Indonesia), and this is my fourth year living in New York City.
+My hobbies include listening to a wide range of music, eating many kinds of food and petting cats.
