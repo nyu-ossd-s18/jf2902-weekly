@@ -16,6 +16,8 @@
 |6|Added Vihara Borobudur (Buddhist Temple) to OpenStreetMap ([changeset page](https://www.openstreetmap.org/user/ravenclaw14/history))|Other|
 |6|Added Brastagi Supermarket Tiara to OpenStreetMap ([changeset page](https://www.openstreetmap.org/user/ravenclaw14/history))|Other|
 |9|Reported issue [#179](https://github.com/okfn/opendefinition/issues/179) in OpenDefinition's website|Other|
+|10|Reported issue [#997](https://github.com/yunity/karrot-frontend/issues/997) in karrot-frontend's repo|Other|
+|10|Reported issue [#330](https://github.com/stylish-userstyles/stylish/issues/330) in Stylish's repo|Other|
 
 <style>
     table {
