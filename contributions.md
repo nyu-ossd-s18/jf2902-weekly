@@ -18,6 +18,7 @@
 |9|Reported issue [#179](https://github.com/okfn/opendefinition/issues/179) in OpenDefinition's website|Other|
 |10|Reported issue [#997](https://github.com/yunity/karrot-frontend/issues/997) in karrot-frontend's repo|Other|
 |10|Reported issue [#330](https://github.com/stylish-userstyles/stylish/issues/330) in Stylish's repo|Other|
+|10|Created pull request for fix on issue [#104](https://github.com/joannakl/cs480_s18/pull/107) on course website|Course Website|
 
 <style>
     table {
