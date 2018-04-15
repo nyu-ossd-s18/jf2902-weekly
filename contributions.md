@@ -19,6 +19,8 @@
 |10|Reported issue [#997](https://github.com/yunity/karrot-frontend/issues/997) in karrot-frontend's repo|Other|
 |10|Reported issue [#330](https://github.com/stylish-userstyles/stylish/issues/330) in Stylish's repo|Other|
 |10|Created pull request for fix on issue [#104](https://github.com/joannakl/cs480_s18/pull/107) on course website|Course Website|
+|11|Reported issue [#98](https://github.com/Microsoft/winfile/issues/98) in WinFile's repo|Other|
+|11|Reported issue [#78](https://github.com/hardikvasa/google-images-download/issues/78) in Google Images Download's repo|Other|
 
 <style>
     table {
